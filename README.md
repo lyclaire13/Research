@@ -6,4 +6,6 @@ This repo stores ongoing data analysis for academic research.
 
 Aim: to develop and evaluate an artificial intelligence–based cofacilitator prototype to track and monitor online support group participants’ distress through real-time analysis of text-based messages posted during synchronous sessions.
 
-This research is ongoing and final report is expected to due in end-March 2022. 
+This research is ongoing and final report is expected to due in end-March 2022
+
+Publication: https://www.researchprotocols.org/2021/1/e21453
